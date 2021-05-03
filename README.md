@@ -1,0 +1,1 @@
+sudo yum install protobuf protobuf-devel protobuf-compiler
